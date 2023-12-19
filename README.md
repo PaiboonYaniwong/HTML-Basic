@@ -1,2 +1,2 @@
 # html_basic
-# Create css for edite html
+# สร้างเว็บไซต์ แนะนำตึกในมหาลัย
